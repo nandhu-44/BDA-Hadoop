@@ -1,0 +1,8 @@
+This is a test input file for Hadoop MapReduce.
+The MapReduce framework is very powerful.
+This is how we process big data using Hadoop.
+Hadoop is a distributed computing framework.
+Processing big data is now easier with Hadoop.
+This framework is scalable and reliable.
+MapReduce is the programming model we use.
+This is a great way to learn Hadoop.
