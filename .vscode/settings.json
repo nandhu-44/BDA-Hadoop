@@ -1,0 +1,8 @@
+
+{
+    "java.project.referencedLibraries": [
+        "${env:HADOOP_HOME}/share/hadoop/common/*.jar",
+        "${env:HADOOP_HOME}/share/hadoop/common/lib/*.jar",
+        "${env:HADOOP_HOME}/share/hadoop/mapreduce/*.jar"
+    ]
+}
